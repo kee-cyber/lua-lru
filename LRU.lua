@@ -1,4 +1,6 @@
 --- Least Recently Used(LRU)
+--- Create by xieyq
+--- DateTime:2025/4/8 11:45
 local class = require "class"
 
 -- oop object
